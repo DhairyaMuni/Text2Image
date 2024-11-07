@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text2Image</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>
+        Text 2 Image
+    </h1>
+    <input type="text" id="input" placeholder="Enter text to Generate">
+    
+    <!-- Dropdown to choose the model -->
+    <select id="model-select">
+        <option value="stable">Stable Version (Faster & Good Quality)</option>
+        <option value="beta">Beta Version (Slower & More Realistic)</option>
+    </select>
+
+    <button id="btn" class="button-85">Generate</button>
+
+    <div id="image-container">
+        <img src="" alt="" id="image">
+    </div>
+    <button id="download-btn" style="display:none;" class="button-85">Download Image</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
