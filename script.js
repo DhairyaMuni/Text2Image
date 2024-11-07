@@ -1,4 +1,4 @@
-const token = "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";
+const token = "#API_TOKEN_KEY";
 const inputTxt = document.getElementById("input");
 const image = document.getElementById("image");
 const button = document.getElementById("btn");
