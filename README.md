@@ -17,7 +17,7 @@ The interface is clean and interactive — users can type prompts, view loading 
 ## Usage
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/text2image.git
+    git clone https://github.com/DhairyaMuni/Text2Image
     ```
 2. Navigate to the project directory:
     ```bash
