@@ -17,17 +17,10 @@ The interface is clean and interactive — users can type prompts, view loading 
 ## Usage
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/chatbot_document_analysis.git
+    git clone https://github.com/yourusername/text2image.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd chatbot_document_analysis
+    cd text2image
     ```
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the chatbot:
-    ```bash
-    streamlit run Main.py
-    ```
+3. Open index.html in your browser to start using the application.
